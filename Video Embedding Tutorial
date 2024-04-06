@@ -1,0 +1,38 @@
+Certainly! Here's the revised tutorial with the provided YouTube video:
+
+Tutorial: How to Embed a Service-Hosted Video into a Website
+
+In this tutorial, I'll guide you through the process of embedding a service-hosted video into a website using YouTube as an example.
+
+Step 1: Find the Video on YouTube
+
+Navigate to YouTube (https://www.youtube.com) and find the video you want to embed into your website.
+
+
+Step 2: Click on the Share Button
+
+Once you've found the video, click on the "Share" button located below the video player.
+
+
+Step 3: Click on the Embed Option
+
+After clicking the "Share" button, a dropdown menu will appear. Click on the "Embed" option.
+
+
+Step 4: Copy the Embed Code
+
+Once you click on the "Embed" option, you'll see the embed code displayed below. Click on the "Copy" button to copy the code.
+
+
+Step 5: Paste the Embed Code into Your Website
+
+Now, navigate to the HTML code of your website where you want to embed the video. Paste the copied embed code into the HTML file or content management system (CMS) you are using.
+
+
+Step 6: Save and Preview Your Website
+
+Save the changes to your website's HTML file or CMS, and then preview your website to ensure the video is embedded correctly.
+
+Congratulations! You've successfully embedded a service-hosted video into your website. Below is an example of how the embedded video will appear:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xopvkx6CpNs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
